@@ -29,9 +29,11 @@ Então agora a intenção é aplicar o merge.
 ## Merge
 
 1- git checkout master
+
 Vamos mudar para a master.
 
 2- git merge (branch que quer dar merge)
+
 Ainda esta localmente, vamos subir.
 
 3- git add .
@@ -39,6 +41,7 @@ Ainda esta localmente, vamos subir.
 4- git commit -m "mensagem da merge"
 
 5- git push origin master
+
 (estamos na branch master)
 
 
