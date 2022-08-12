@@ -55,12 +55,12 @@ No caso se houver impedimento de conseguir setar o remoto que precisa trabalhar 
 Caso já tenha um e precise mudar:
 
 3- git remote set-url origin NOVO_REPO_LINK
- <h1 align="center">✒️  Desenvolvedor </h1>
 
 E dar prosseguimento com o git commit, push origin ou
 
 4- git push -u origin master 
 
+ <h1 align="center">✒️  Desenvolvedor </h1>
 
 [<img src="https://avatars.githubusercontent.com/u/59845047?v=4" width=115><br><sub>Valdeir Camargo</sub>](https://github.com/Camargovf)
-| :---: | :---: | :---: | :---: | :---: | :---: | 
+
