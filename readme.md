@@ -2,6 +2,10 @@
 
 O tutorial vai servir para os devs que estão aprendendo sobre versionamento git e querem colaborar com seu time de forma que criem suas branchs e após terminar suas features possam pedir para realizar a MR(Merge Request).
 
+
+## ESSA BRANCH DEVE SER A NOVA BRANCH
+
+
 <h1 align="center">🎯 Branchs</h1>
 
 O repositório terá três branchs e cada um terá um readme sobre como fazer.
