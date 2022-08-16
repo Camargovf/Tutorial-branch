@@ -57,6 +57,10 @@ No caso se houver impedimento de conseguir setar o remoto que precisa trabalhar 
 
 Caso já tenha um e precise mudar:
 
+## Sanando eventuais erros
+
+git reset --mixed
+
 3- git remote set-url origin NOVO_REPO_LINK
 
 E dar prosseguimento com o git commit, push origin ou
